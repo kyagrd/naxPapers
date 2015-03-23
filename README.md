@@ -2,7 +2,7 @@
 Automatically exported from code.google.com/p/nax
 
 
-This is a repository of my thesis and related papers.
+This is a repository of my thesis and related papers on the Nax language.
 Moved here because thhe "google code" service is closing.
 Prototypes of the Nax language implementations are elsewhere,
 for example https://github.com/kyagrd/mininax and also
